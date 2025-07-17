@@ -1,1 +1,1 @@
-# simple-interest-calc
+# one-page portfolio
